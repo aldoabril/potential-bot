@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "aldobot":"./app/langraph.py:graph"
+        
+    },
+    "python_version":"3.11"
+}
