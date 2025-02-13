@@ -1,6 +1,5 @@
 ipython==8.12.3
 langchain==0.3.18
 langchain_core==0.3.35
-langgraph==0.2.71
+langgraph==0.2.72
 pydantic==2.10.6
-typing_extensions==4.12.2

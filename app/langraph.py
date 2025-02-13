@@ -1,6 +1,5 @@
-from typing import Annotated
+from typing import Annotated, TypedDict
 
-from typing_extensions import TypedDict
 
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
